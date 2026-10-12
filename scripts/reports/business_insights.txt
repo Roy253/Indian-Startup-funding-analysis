@@ -1,0 +1,77 @@
+INDIAN STARTUP FUNDING: BUSINESS INSIGHTS
+=======================================================
+Dataset records: 1,100
+Unique startup names: 180
+Records with funding amounts: 1,100
+Total recorded funding (USD): $28,086,243,000.00
+
+1. TOP INDUSTRIES BY RECORDED FUNDING
+                             sum  count          mean
+Industry                                             
+FoodTech              3477282000     80  4.346602e+07
+Consumer Electronics  2703489000     87  3.107459e+07
+Retail                2673074000     89  3.003454e+07
+Mobility              2460096000     86  2.860577e+07
+Media                 2292449000     85  2.696999e+07
+AgriTech              2142559000     82  2.612877e+07
+E-commerce            1772544000     90  1.969493e+07
+FinTech               1631375000     73  2.234760e+07
+SaaS                  1629119000     72  2.262665e+07
+EdTech                1627226000     78  2.086187e+07
+
+Observation: FoodTech has the highest recorded funding total in this dataset.
+
+2. TOP CITIES BY RECORDED FUNDING
+                  sum  count
+City                        
+Pune       4435496000    113
+Kolkata    3590477000    116
+Delhi      3426493000    128
+Gurugram   3122328000    109
+Chennai    2675023000    112
+Bengaluru  2561458000    107
+Ahmedabad  2462396000    111
+Mumbai     2424807000    104
+Hyderabad  1707975000     96
+Noida      1679790000    104
+
+Observation: Pune has the highest recorded funding total among cities.
+
+3. YEARLY FUNDING TOTALS
+Year
+2020    4756665000
+2021    6024899000
+2022    4509675000
+2023    4001981000
+2024    5979808000
+2025    2813215000
+
+First observed year: 2020 ($4,756,665,000.00)
+Last observed year: 2025 ($2,813,215,000.00)
+Interpretation: compare these totals with the intermediate years before concluding that funding is increasing or decreasing.
+
+4. MOST COMMON INVESTMENT TYPES
+InvestmentType
+Seed            353
+Series A        227
+Series B        110
+Series C         95
+Pre-Series A     88
+Angel            62
+Pre-Seed         51
+Bridge           39
+Growth           25
+Series D         24
+
+5. LIMITATIONS
+- Results represent this dataset, not the entire Indian startup ecosystem.
+- Funding totals may be affected by missing values, duplicate startup names, and inconsistent labels.
+- Historical investor frequency does not prove current investment activity.
+- Association and historical trends do not establish causation.
+
+6. BUSINESS RECOMMENDATIONS
+- Investigate the top-funded industries for potential market opportunities.
+- Compare funding totals with record counts and average funding to distinguish volume from large individual deals.
+- Investigate unusually large funding records before making strategic decisions.
+- Use chronological test data and baseline comparisons before relying on forecasts.
+- Validate investor details with current sources before using recommendations for outreach.

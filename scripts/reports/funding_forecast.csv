@@ -1,0 +1,12 @@
+Year,Predicted_Funding_USD,Forecast_Type
+2020,4756665000.0,Historical
+2021,6024899000.0,Historical
+2022,4509675000.0,Historical
+2023,4001981000.0,Historical
+2024,5979808000.0,Historical
+2025,2813215000.0,Historical
+2026,3645018800.0,Linear regression; experimental
+2027,3349012600.0,Linear regression; experimental
+2028,3053006400.0,Linear regression; experimental
+2029,2757000200.0,Linear regression; experimental
+2030,2460994000.0,Linear regression; experimental

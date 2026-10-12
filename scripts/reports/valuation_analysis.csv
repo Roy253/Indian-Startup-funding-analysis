@@ -1,0 +1,7 @@
+Startup,Sector,Scenario,Valuation_Method,Revenue_Multiple,Estimated_Pre_Money_Cr,Target_Raise_Cr,Implied_Post_Money_Cr,Investor_Equity_Percent
+aahar,healthtech,Revenue - Low,Revenue multiple,2.0,20000000.0,100000000.0,120000000.0,83.33333333333334
+aahar,healthtech,Revenue - Base,Revenue multiple,4.0,40000000.0,100000000.0,140000000.0,71.42857142857143
+aahar,healthtech,Revenue - High,Revenue multiple,6.0,60000000.0,100000000.0,160000000.0,62.5
+aahar,healthtech,Previous round - Low,Previous-round sensitivity,,45000000.0,100000000.0,145000000.0,68.96551724137932
+aahar,healthtech,Previous round - Base,Previous-round sensitivity,,50000000.0,100000000.0,150000000.0,66.66666666666666
+aahar,healthtech,Previous round - High,Previous-round sensitivity,,65000000.0,100000000.0,165000000.0,60.60606060606061
